@@ -4,11 +4,8 @@ Hi, I'm **Ming Chen**. College student at **The University of Utah**
 
 ## About me
 
--  👨‍🎓 The University of Utah --Salt Lake City, USA 
--      Bachelor of Arts- Strategic Communicat
--  👨‍💻 I'm currently learning ~~Flutter~~ Golang.
--  🆕 I'm the owner of the **[AS206729](https://bgp.tools/AS206729)** autonomous system number.
--  🌍 I like traveling, running, basketball(GSW fan).
+-  👨‍🎓 The University of Utah --Salt Lake City, USA  Bachelor of Sciense- Strategic Communicat
+
 
 ## Connect with me
 <p>
