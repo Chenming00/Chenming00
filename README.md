@@ -4,7 +4,7 @@ Hi, I'm **Ming Chen**. College student at **The University of Utah**
 
 ## About me
 
--  👨‍🎓 The University of Utah --Salt Lake City, USA  Bachelor of Sciense- Strategic Communicat
+-  👨‍🎓 The University of Utah Bachelor of Sciense- Strategic Communicat
 
 
 ## Connect with me
