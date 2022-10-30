@@ -1,11 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-Hi, I'm **Ming Chen**. College student from 🇨🇳 **Shanghai, China**.
+Hi, I'm **Ming Chen**. College student at **The University of Utah**
 
 ## About me
 
--  💼 I'm currently interning at ~~PwC AC~~ Home.
--  👨‍🎓 I'm a student majoring in computer science.
+-  👨‍🎓 The University of Utah --Salt Lake City, USA 
+-      Bachelor of Arts- Strategic Communicat
 -  👨‍💻 I'm currently learning ~~Flutter~~ Golang.
 -  🆕 I'm the owner of the **[AS206729](https://bgp.tools/AS206729)** autonomous system number.
 -  🌍 I like traveling, running, basketball(GSW fan).
