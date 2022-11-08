@@ -5,6 +5,7 @@ Hi, I'm **Ming Chen**. College student at **The University of Utah**
 ## About me
 
 -  👨‍🎓 Bachelor of Sciense- Strategic communication at The University of Utah 
+-  💻 OWO Network CMO 
 
 
 ## Connect with me
