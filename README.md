@@ -7,7 +7,7 @@ Hi, I'm **Ming Chen**. College student at **The University of Utah**
 -  👨‍🎓 Bachelor of Sciense- Strategic communication at The University of Utah 
 -  💻 OWO Network CMO 
 
-##CV
+## CV
  https://meritpages.com/Ming-Chen/6493631
 ## Connect with me
 <p>
