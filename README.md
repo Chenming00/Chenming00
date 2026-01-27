@@ -4,7 +4,8 @@ Hi, I'm **Ming Chen**. College student at **The University of Utah**
 
 ## About me
 
--  👨‍🎓 Bachelor of Sciense- Strategic communication at The University of Utah 
+I am Ming Chen, a versatile professional combining strategic communication expertise with rigorous management training. My journey has taken me from the University of Utah to a Master's at the University of Florida, and from media operations in Hong Kong to financial planning in Hangzhou. As a Co-Founder of OwO Network and an incoming team member at Zhejiang Yisheng Petrochemical, I am dedicated to applying my skills in data analysis, finance, and strategy to build impactful solutions.
+
 -  💻 OWO Network CMO 
 
 ## CV
